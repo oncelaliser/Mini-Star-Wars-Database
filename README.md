@@ -1,5 +1,6 @@
 # Mini-Star-Wars-Database C++
-It's a C++ Mini Star Wars Database with SQLite integration.
+It's a C++ Mini Star Wars Database with SQLite integration.  
+It looks like a C project on GitHub because SQLite's libraries written in C and it thinks it's C
 
 # TOOLS USED
 IDE: Viual Studio 2022  
