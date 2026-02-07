@@ -63,7 +63,7 @@ public:
 			charactermap[name]->display();
 		}
 		else {
-			cout << "Search error " << name << " not found in the archeves " << endl;
+			cout << "Search error " << name << " not found in the archives " << endl;
 		}
 	}
 };
