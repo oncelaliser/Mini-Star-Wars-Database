@@ -17,7 +17,7 @@ and the final implementation and memory managament manually coded and verified b
 # 3 TROUBLESHOOTING    
 AI assisted to resolving of  specific configuration error like E1696 and MSB 4086  
 # 4 LEARNING   
-I have ensured to fully understanding of the underlying code and SQLite implementation.   
+I have understand the underlying code and SQLite implementation. I made this for the sake of learning and I wanted to publish in GitHub.  
 
 # Learning Outcomes  
 Through this assisted project I successfully transioned the hardcoding data    
