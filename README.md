@@ -1,27 +1,9 @@
 # Mini-Star-Wars-Database C++
 It's a C++ Mini Star Wars Database with SQLite integration.  
 It looks like a C project on GitHub because SQLite's libraries written in C and it thinks it's C
-
-# TOOLS USED
-IDE: Viual Studio 2022  
-Database Engine : SQLite3 (Amalgamation Version)  
-Database Management: DB Browser for SQLite  
-
-# ACADEMIC INTEGRITY  
-# 1 Architectural Guidance:  
-For the integration between C++ Standart Template Library and SQLite C-API   
-taken help from a technical tutor and it explained by them  
-# 2 DSA Implementation  
-While the concepts of unordered_map and pointer implementation were discussed   
-and the final implementation and memory managament manually coded and verified by me  
-# 3 TROUBLESHOOTING    
-AI assisted to resolving of  specific configuration error like E1696 and MSB 4086  
-# 4 LEARNING   
-I have understand the underlying code and SQLite implementation. I made this for the sake of learning and I wanted to publish in GitHub.  
-
-# Learning Outcomes  
-Through this assisted project I successfully transioned the hardcoding data    
-and gained expreince on managing C++ and SQLite  
+Well except these thing I just made this project for learning SQLite and improving my DSA also I took help from tutoriols and AI but geniunly I implemented the code.   
+Even I hesitated for publishing on GitHub but then I just wanted to publish it maybe some people may useful for themselves.   
+Like I said before I made this for the SAKE OF LEARNİNG and if you like it you can read it and make your own version.
 <img width="1106" height="781" alt="Ekran görüntüsü 2026-02-02 113807" src="https://github.com/user-attachments/assets/2921ac9d-3d37-48e8-bf30-35d443dff2b0" />    
 From Luke Skywalker to Mustafar
 
